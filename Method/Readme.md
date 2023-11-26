@@ -2,7 +2,7 @@
 
 ## 1.1 Objective
 
-**Objective:** To investigate the correlation between public perception of climate change discussions on Twitter and the occurrences of extreme weather events and the release of environmental policy over time, focusing on the Ohio Detrailment 2023 incident.
+**Objective:** To investigate the correlation between public perception of climate change discussions on Twitter and the occurrences of extreme weather events and the release of environmental policy over time during the impactful year of 2022.
 
 **Significance:** Understanding the intricate relationship between real-world events, environmental policies, and public discourse on social media is paramount. This research seeks to shed light on how external factors influence public perceptions of climate change, contributing valuable insights for policymakers, researchers, and the broader public.
 
@@ -18,17 +18,17 @@
 
 ### 1.2.2 Data Type
 
-Time-series data was collected by filtering tweets based on relevant hashtags related to climate change. The duration of the time-series analysis will be one month, centered around the Ohio Detrailment 2023 incident. This approach ensures a focused examination of the immediate impact of the incident on public discourse.
+Time-series data was collected by filtering the top daily tweets based on the hashtag 'Climate Change'. The duration of the time-series analysis will be 6 months, in the first half of 2022. This approach ensures a focused examination of the immediate impact of the incident on public discourse.
 
 ## 1.3 Hypothesis Development
 
 ### 1.3.1 Prediction Hypothesis
 
-The hypothesis posits that during the one-month period centered around the Ohio Detrailment 2023, there will be a positive correlation between the frequency of extreme weather events, significant environmental policy releases, and the public perception of climate change discussions on Twitter. Specifically, it is anticipated that there will be a notable peak in tweet frequency during the Ohio Detrailment, indicating a sharp surge in public engagement, and a smaller peak corresponding to the release of environmental policy.
+The hypothesis asserts that, within the timeframe of 01/01/2022 to 19/07/2022, a positive correlation exists between the frequency of extreme weather events, significant environmental policy releases, and the public perception of climate change discussions on Twitter. Anticipated peaks in tweet frequency during significant events and policy releases signify heightened public engagement, aligning with the profound impact of climate change observed globally during this period.
 
 ### 1.3.2 Justification
 
-This hypothesis is grounded in findings from previous studies, suggesting that external events, particularly extreme weather incidents, act as stimuli for increased discussions about climate change on social media platforms (Chen, Zou, and Zhao 2019). Additionally, the release of environmental policies is expected to serve as a catalyst, fostering heightened public awareness and discourse around climate-related issues (Hamed et al. 2015). Thus, the hypothesis aligns with the established notion that significant real-world events and policy actions play a pivotal role in shaping and influencing the level of public engagement with climate change discussions on Twitter.
+Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits that external events, particularly extreme weather incidents, stimulate increased discussions about climate change on social media. Furthermore, the release of environmental policies is expected to act as a catalyst, fostering elevated public awareness and discourse around climate-related issues (Hamed et al. 2015). This aligns with the established notion that significant real-world events and policy actions play a pivotal role in shaping public engagement with climate change discussions on Twitter, especially in the context of the impactful year 2022.
 
 ## 1.4 Machine Learning Algorithm Selection
 
@@ -56,7 +56,7 @@ This hypothesis is grounded in findings from previous studies, suggesting that e
 
 ### 2.1.1 Data Processing
 
-**Dataset Collection:** Gather a comprehensive dataset from Twitter, encompassing over a million tweets from January to March 2023. Utilize a publicly available crawler and the Twitter API for data acquisition.
+**Dataset Collection:** Gather a comprehensive dataset from Twitter, encompassing over a million tweets from January to July 2022. Utilize a publicly available crawler and the Twitter API for data acquisition.
 
 **Tweet Classification:** Employ OpenAI's GPT-3.5 model for tweet classification based on stances (believers, neutrals, deniers) and sentiments (positive, negative). Classify tweets receiving the top 1000 likes to ensure relevance and significance.
 
@@ -108,4 +108,4 @@ This hypothesis is grounded in findings from previous studies, suggesting that e
 
 **For BERTopic:**
 
-- **Cross-Validation with Diverse Data:** Enhance cross-validation techniques by ensuring diversity in the dataset, encompassing a wide range of expressions and
+- **Cross-Validation with Diverse Data:** Enhance cross-validation techniques by ensuring diversity in the dataset, encompassing a wide range of expressions and perspectives specific to climate change discourse. This approach improves the model's ability to generalize across varied user behaviors in this domain.
