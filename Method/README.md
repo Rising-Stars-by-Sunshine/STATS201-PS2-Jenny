@@ -109,3 +109,13 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 **For BERTopic:**
 
 - **Cross-Validation with Diverse Data:** Enhance cross-validation techniques by ensuring diversity in the dataset, encompassing a wide range of expressions and perspectives specific to climate change discourse. This approach improves the model's ability to generalize across varied user behaviors in this domain.
+
+# Mindmap created by Whimscal
+<img width="606" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/be7851f2-763b-4170-b296-852967e5cd8c">
+
+# References
+Chen, Xingyu, Lei Zou, and Bo Zhao. 2019. “Detecting Climate Change Deniers on Twitter Using a Deep Neural Network.” Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19. https://doi.org/10.1145/3318299.3318382.
+
+Mildenberger, Matto, and Anthony Leiserowitz. 2017. “Public Opinion on Climate Change: Is There an Economy–Environment Tradeoff?” Environmental Politics 26 (5): 801–24. https://doi.org/10.1080/09644016.2017.1322275.
+
+‌Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylor, and Asim Zia. 2015. “Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events.” International Journal of Web Information Systems 11 (4): 527–44. https://doi.org/10.1108/ijwis-08-2015-0025.
