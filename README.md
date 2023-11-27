@@ -7,7 +7,7 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
 # Table of Content
 ## [Method](Method/README.md)
 
-# 1.Research Question Formulation  
+## 1.Research Question Formulation  
     1.1 Objective
    
     1.2 Operational Measures
@@ -30,7 +30,7 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
    
       1.4.3 Linear Regression Analysis
    
-# 2. The Machine Learning Workflow
+## 2. The Machine Learning Workflow
        
     2.1 Model Development
    
@@ -48,5 +48,5 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
    
          2.3.2 Iterative Improvement
    
-## [Data](#examples)
-## [Code](#conclusion)
+## [Data](Data/README.md)
+## [Code](Code/README.md)
