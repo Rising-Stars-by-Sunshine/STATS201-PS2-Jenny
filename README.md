@@ -50,3 +50,16 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
    
 ## [Data](Data/README.md)
 ## [Code](Code/README.md)
+
+
+# References
+Chen, Xingyu, Lei Zou, and Bo Zhao. 2019. “Detecting Climate Change Deniers on Twitter Using a Deep Neural Network.” Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19. https://doi.org/10.1145/3318299.3318382.
+
+Mildenberger, Matto, and Anthony Leiserowitz. 2017. “Public Opinion on Climate Change: Is There an Economy–Environment Tradeoff?” Environmental Politics 26 (5): 801–24. https://doi.org/10.1080/09644016.2017.1322275.
+
+‌Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylor, and Asim Zia. 2015. “Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events.” International Journal of Web Information Systems 11 (4): 527–44. https://doi.org/10.1108/ijwis-08-2015-0025.
+‌
+
+# Self-introduction
+Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026. My intended major is Computation and Design with Social Policy track. My research projects are mainly focus on quantative social science and environmental science to analyze public perceptions about societal problems. Besides, I am also interested in consulting and finance, where I' like to apply my skills into business world practice.
+![_DSC2255](https://github.com/jennycheng1112/STATS201_Autumn2023_Week2_Sunshine.github.io/assets/125801773/4fdcc3d1-f6d7-4e94-868f-93e2578698de)
