@@ -1,6 +1,9 @@
 # Access Data
 Here are two approaches to access dataset from Kaggle that I have tried to access the dataset for my research, which can also be applied to other projects.
-### Steps to Download a Dataset from Kaggle:
+
+## Approach1 (Easiest way to access data):
+
+###Steps to Download a Dataset from Kaggle:
 
 1. **Create a Kaggle Account and Log In:**
    - Sign up for a Kaggle account at [Kaggle](https://www.kaggle.com/account/login) and log in to your Kaggle account.
@@ -23,13 +26,16 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 
 
 ### Note:
-- In my case, I directly download dataset after selection, but in other cases, you may use "Competitions" to explore more datasets that are related to your interested topic.
-- 
+- *In my case, I directly download dataset after selection, but in other cases, you may use "Competitions" to explore more datasets that are related to your interested topic.*
+
 - **Competitions vs. Datasets:**
   - Competitions on Kaggle involve solving specific data science problems with a defined objective. Participants often upload datasets related to the competition.
   - Datasets on Kaggle are standalone collections of data that users can download for various purposes, independent of competitions.
 ![image](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/c960e800-be74-4d3f-ae4c-723369a80d91)
 
+## Approach2 (Use code and Kaggle API to access data):
+
+[Access dataset from Kaggle](Code/data_query_import_kaggle_dataset.ipynb)
 
 # Description
 The dataset, originally from Kaggle(https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
