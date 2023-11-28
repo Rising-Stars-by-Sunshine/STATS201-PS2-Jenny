@@ -3,7 +3,7 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 
 ## Approach1 (Easiest way to access data):
 
-###Steps to Download a Dataset from Kaggle:
+### Steps to Download a Dataset from Kaggle:
 
 1. **Create a Kaggle Account and Log In:**
    - Sign up for a Kaggle account at [Kaggle](https://www.kaggle.com/account/login) and log in to your Kaggle account.
@@ -35,7 +35,7 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 
 ## Approach2 (Use code and Kaggle API to access data):
 
-[Access dataset from Kaggle](Code/data query/data_query_import_kaggle_dataset.ipynb)
+[Access dataset from Kaggle](Code/data_query_import_kaggle_dataset.ipynb)
 
 # Description
 The dataset, originally from Kaggle(https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
