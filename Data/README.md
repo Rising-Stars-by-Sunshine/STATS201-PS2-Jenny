@@ -1,6 +1,8 @@
 # Description
 The dataset, originally from Kaggle(https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
+
 Selected during a year marked by unprecedented global extreme weather events, this dataset offers a unique window into public sentiment during impactful climatic occurrences. The temporal scope aligns with the research's focus on understanding the correlation between climate discourse, extreme weather events, and environmental policy releases.
+
 Leveraging machine learning, OpenAI's GPT-3.5 for sentiment analysis and BERTopic for topic modeling will be deployed. This comprehensive approach aims to uncover nuanced sentiment variations and prevalent topics within the discussions. The dataset's extensive timeframe enables iterative exploration, allowing for refined insights into the evolving dynamics of public perception concerning climate change on Twitter amidst the backdrop of the climate crisis.
 
 # Data Dictionary
@@ -19,5 +21,4 @@ Leveraging machine learning, OpenAI's GPT-3.5 for sentiment analysis and BERTopi
 | Image link       | Link to any images associated with the tweet.   | URL link pointing to images in the tweet.             | Occasional                 | Varies                  | N/A          | Text      | "[http://example.com/image.png](https://pbs.twimg.com/media/FJVoK_gaIAAQcR9?format=jpg&name=small)", "https://pbs.twimg.com/tweet_video_thumb/FJVdjMmWQAMl9on.jpg", "[http://image-link.com](https://pbs.twimg.com/card_img/1549249134355423232/kb0dAHjG?format=jpg&name=small)" |
 | Tweet URL        | The URL link to the tweet on Twitter.            | URL link leading to the original tweet on Twitter.    | Daily                      | Varies                  | N/A          | Text      | "[http://twitter.com/ClimateWatcher/status/123456789](https://twitter.com/laurenboebert/status/1483220748487569409)", "[https://twitter.com/ruggiere_l/status/1483192848086233089](https://twitter.com/ruggiere_l/status/1483192848086233089)", "[https://twitter.com/ActOnClimateVic/status/1483207758334021633](https://twitter.com/ActOnClimateVic/status/1483207758334021633)" |
 
-This detailed data dictionary provides comprehensive information about each variable, including its definition, description, frequency, range, unit, type, and sample observations. The data dictionary is still based on the original dataset, further cleaned and processed version is now available in 
-[processed data](Data/processed data/README.md)
+This detailed data dictionary provides comprehensive information about each variable, including its definition, description, frequency, range, unit, type, and sample observations. The data dictionary is still based on the original dataset, further cleaned and processed version is now available in **processed data**([Data/processed data/README.md](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/7fcd9fe3ae3db0487654d0c5ef1a68fbbec370ba/Data/processed%20data))
