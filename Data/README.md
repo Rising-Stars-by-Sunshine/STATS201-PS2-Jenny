@@ -37,6 +37,12 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 
 [Access dataset from Kaggle](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/blob/a02eb23bdcc2f75a792d294d15264b9e8f6ebf31/Code/data%20query/data_query_import_kaggle_datasets.ipynb)
 
+
+## Flowchart for Approach1
+
+<img width="317" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/89ee7212-8768-4f4b-b182-86f59af55afa">
+
+
 # Description
 The dataset, originally from Kaggle(https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
 
