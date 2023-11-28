@@ -7,7 +7,7 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
 # Table of Content
 ## [Method](Method/README.md)
 
-## 1.Research Question Formulation  
+### 1.Research Question Formulation  
     1.1 Objective
    
     1.2 Operational Measures
@@ -30,7 +30,7 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
    
       1.4.3 Linear Regression Analysis
    
-## 2. The Machine Learning Workflow
+### 2. The Machine Learning Workflow
        
     2.1 Model Development
    
@@ -49,9 +49,16 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
          2.3.2 Iterative Improvement
    
 ## [Data](Data/README.md)
+
+### 1.[Queried data](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/4463b5520313ea1847bf3c8163b37a31c1293ec6/Data/queried%20data)
+
+### 2.[Processed data](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/4463b5520313ea1847bf3c8163b37a31c1293ec6/Data/processed%20data)
+
 ## [Code](Code/README.md)
 
-‌
+### 1.[Data query](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/4463b5520313ea1847bf3c8163b37a31c1293ec6/Code/data%20query)
+
+### 2.[Data analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/4463b5520313ea1847bf3c8163b37a31c1293ec6/Code/data%20analysis)
 
 # Self-introduction
 Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026. My intended major is Computation and Design with Social Policy track. My research projects are mainly focus on quantative social science and environmental science to analyze public perceptions about societal problems. Besides, I am also interested in consulting and finance, where I' like to apply my skills into business world practice.
