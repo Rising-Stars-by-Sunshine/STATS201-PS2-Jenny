@@ -12,3 +12,9 @@ Embarking on the exploration of prevalent topics within the climate change disco
 Furthermore, an exploration into the temporal dynamics of these identified topics takes shape. Employing a variety of visualization methods, this analysis shows the evolving trends of climate change discussions over time, offering valuable insights into the dynamic nature of discussion on Twitter.
 
 Subsequent analyses extend to probing the correlation between public sentiment, extreme natural events, and the release of environmental policies. The observed peaks and fluctuations in the graphical representations serve as crucial indicators for predicting relationships between public perception and external factors such as extreme weather occurrences and policy releases.
+
+**Spotlight:**
+
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/89bf2fa5-cedc-4ed0-ace5-a4716433455c)
+
+<img width="1092" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/00691e16-9a1f-418a-ac85-9282f384157b">
