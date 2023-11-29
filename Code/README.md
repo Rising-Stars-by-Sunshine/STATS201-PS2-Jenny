@@ -51,4 +51,4 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 <img width="551" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/1bb988ba-00e0-4a2f-95ee-6ba27bd3babb">
 
 ## Pseudo Code in Latex
-Please go the Latex .zip file.
+Please go the [Latex .zip file](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/blob/9b5ffeb9bf5da9f615f4fe3b5898807142d08822/Code/STATS201%20PS2%20pseudo%20code.zip).
