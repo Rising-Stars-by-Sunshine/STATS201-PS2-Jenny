@@ -1,5 +1,5 @@
 # Description
-The dataset, originally from Kaggle(https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
+The dataset, originally from [Kaggle](https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), encapsulates daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022.
 
 Selected during a year marked by unprecedented global extreme weather events, this dataset offers a unique window into public sentiment during impactful climatic occurrences. The temporal scope aligns with the research's focus on understanding the correlation between climate discourse, extreme weather events, and environmental policy releases.
 
