@@ -1,6 +1,6 @@
 # STATS201-PS2-Jenny
 
-# Brief introduction about my project
+# Introduction
 
 Explore the profound impact of climate change through an in-depth analysis of Twitter discussions. Utilizing top daily tweets containing 'Climate Change' during the first half of 2022, a period marked by record-breaking extreme weather events worldwide, this repository investigates the correlation between public perception and climatic occurrences. Leveraging machine learning algorithms, the study provides insights into the evolving dynamics of climate discourse on social media amidst the increasing severity of climate-related incidents.
 
@@ -61,6 +61,22 @@ Explore the profound impact of climate change through an in-depth analysis of Tw
 ### 2.[Data analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/tree/4463b5520313ea1847bf3c8163b37a31c1293ec6/Code/data%20analysis)
 
 # Self-introduction
-Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026. My intended major is Computation and Design with Social Policy track. My research projects are mainly focus on quantative social science and environmental science to analyze public perceptions about societal problems. Besides, I am also interested in consulting and finance, where I' like to apply my skills into business world practice.
+Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026.
+
+**Intended major:** Computation and Design with Social Policy track
+
+**Research projects focus:** quantitative social science and environmental science; analyzing public perceptions on societal problems.
+
+Besides, I am also interested in consulting and finance, where I'd like to apply my skills to business-world practice.
+
+**Other experiences**:
+- Bain & Company, Part-time assistant
+  - PE fund, FMCG, Manufacturing
+  - Strategy, Due diligence
+- GoodWe, Investment intern
+  - industry research on renewable energy
+- Duke Kunshan University, Peer tutor
+  - STATS101, Applied statistical methods
+
 
 ![_DSC2255](https://github.com/jennycheng1112/STATS201_Autumn2023_Week2_Sunshine.github.io/assets/125801773/4fdcc3d1-f6d7-4e94-868f-93e2578698de)
