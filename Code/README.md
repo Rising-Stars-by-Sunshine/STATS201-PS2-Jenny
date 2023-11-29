@@ -35,7 +35,7 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 
 ## Approach2 (Use code and Kaggle API to access data):
 
-[Access dataset from Kaggle](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/blob/a02eb23bdcc2f75a792d294d15264b9e8f6ebf31/Code/data%20query/data_query_import_kaggle_datasets.ipynb)
+[Access dataset from Kaggle](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/blob/c4643f28565bb86f4ee4fd7ee1d74da5417fbc19/Code/data%20query/data_query_import_kaggle_datasets.ipynb)
 
 
 ## Flowchart for Approach1
