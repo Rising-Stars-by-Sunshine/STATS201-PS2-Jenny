@@ -41,3 +41,14 @@ Here are two approaches to access dataset from Kaggle that I have tried to acces
 ## Flowchart for Approach1
 
 <img width="317" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/89ee7212-8768-4f4b-b182-86f59af55afa">
+
+## Pseudo Code for Approach1 by Latex
+
+<img width="512" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/cf82774a-aab1-42a7-9e61-c5724e318109">
+
+## Pseudo Code for Approach2 by Latex
+
+<img width="551" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/1bb988ba-00e0-4a2f-95ee-6ba27bd3babb">
+
+## Pseudo Code in Latex
+Please go the Latex .zip file.
