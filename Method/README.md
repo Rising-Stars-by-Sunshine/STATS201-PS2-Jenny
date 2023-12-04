@@ -56,7 +56,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 ### 2.1.1 Data Processing
 
-**Dataset Collection:** Gather a comprehensive dataset from Twitter, encompassing over a million tweets from January to July 2022. Utilize a publicly available crawler and the Twitter API for data acquisition.
+**Dataset Collection:** Gather a comprehensive dataset from Twitter, encompassing over a million tweets from January to July 2022.
 
 **Tweet Classification:** Employ OpenAI's GPT-3.5 model for tweet classification based on stances (believers, neutrals, deniers) and sentiments (positive, negative). Classify tweets receiving the top 1000 likes to ensure relevance and significance.
 
