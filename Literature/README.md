@@ -13,6 +13,7 @@ The study utilized a DNN classifier to discern 'denier' or 'non-denier' tweets, 
 
 *4. Methodology:*
 Twitter data, obtained from Internet Archive using climate change-related keywords, underwent translation, manual labeling, and the continuous bag-of-words (CBOW) model. The methodology involved converting tweets into vectors and training a DNN model to distinguish between climate change deniers and non-deniers.
+
 <img width="439" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_JennyZheng/assets/125801773/fa5e87da-c39b-44e1-92a9-0e17d5da6519">
 <img width="349" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_JennyZheng/assets/125801773/fdf3cbef-5d5f-446c-9227-cffde6e16810">
 
