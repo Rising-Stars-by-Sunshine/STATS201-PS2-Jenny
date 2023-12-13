@@ -1,4 +1,5 @@
 # Literature
+**Title: Detecting Climate Change Deniers on Twitter Using a Deep Neural Network**
 
 *1. Background/Motivation:*
 This study addresses the challenge of automatically assessing attitudes towards climate change using social media content. As debates on climate change intensify, understanding public sentiments becomes imperative. Traditional survey methods possess limitations concerning time, expenses, and biases associated with participants. Utilizing social media enables real-time responses, bypassing predefined survey questions. However, interpreting and categorizing human expressions on these platforms remains arduous.
